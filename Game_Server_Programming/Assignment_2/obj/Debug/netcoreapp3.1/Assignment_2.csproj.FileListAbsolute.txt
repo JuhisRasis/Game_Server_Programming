@@ -1,0 +1,13 @@
+C:\Users\Jujapi\Desktop\Game_Server_Programming\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.csprojAssemblyReference.cache
+C:\Users\Jujapi\Desktop\Game_Server_Programming\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.AssemblyInfoInputs.cache
+C:\Users\Jujapi\Desktop\Game_Server_Programming\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.AssemblyInfo.cs
+C:\Users\Jujapi\Desktop\Game_Server_Programming\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\Jujapi\Desktop\Game_Server_Programming\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.exe
+C:\Users\Jujapi\Desktop\Game_Server_Programming\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.deps.json
+C:\Users\Jujapi\Desktop\Game_Server_Programming\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.runtimeconfig.json
+C:\Users\Jujapi\Desktop\Game_Server_Programming\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.runtimeconfig.dev.json
+C:\Users\Jujapi\Desktop\Game_Server_Programming\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.dll
+C:\Users\Jujapi\Desktop\Game_Server_Programming\Assignment_2\bin\Debug\netcoreapp3.1\Assignment_2.pdb
+C:\Users\Jujapi\Desktop\Game_Server_Programming\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.dll
+C:\Users\Jujapi\Desktop\Game_Server_Programming\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.pdb
+C:\Users\Jujapi\Desktop\Game_Server_Programming\Assignment_2\obj\Debug\netcoreapp3.1\Assignment_2.genruntimeconfig.cache
