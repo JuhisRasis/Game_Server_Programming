@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MgdpHkD5woshaOKxZQ3Znd90S4eURObT2i20gVG0W2LYlW2l5lwTyYbL0cSyT11wp0LMZZE9F3wf928+vtbxpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jujapi\\Desktop\\Game_Server_Programming\\Assignment_3\\GameWebApi\\GameWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jujapi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
